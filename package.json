@@ -16,5 +16,8 @@
     "url": "https://github.com/valeriaguzman05/clase_14/issues"
   },
   "homepage": "https://github.com/valeriaguzman05/clase_14#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
